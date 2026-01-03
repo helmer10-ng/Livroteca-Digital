@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>livroTeca-Digital</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <a class="navbar-brand" href="#">📚 livroTeca-Digital</a>
+    <div>
+      <a href="login.html" class="btn btn-outline-light btn-sm">Entrar</a>
+      <a href="register.html" class="btn btn-warning btn-sm">Registar</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="container text-center">
+    <h1>Biblioteca Digital Académica</h1>
+    <p>Contabilidade • Administração • Gestão • Matemática Financeira</p>
+    <a href="catalogo.html" class="btn btn-success btn-lg">Explorar Livros</a>
+  </div>
+</header>
+
+<section class="container mt-5">
+  <h3>Categorias Académicas</h3>
+  <div class="row">
+    <div class="col-md-3">📘 Contabilidade</div>
+    <div class="col-md-3">📗 Administração</div>
+    <div class="col-md-3">📙 Gestão</div>
+    <div class="col-md-3">📕 Matemática Financeira</div>
+  </div>
+</section>
+
+<footer class="footer mt-5">
+  <p>© 2026 – livroTeca-Digital | Projeto Académico</p>
+</footer>
+
+</body>
+</html>
