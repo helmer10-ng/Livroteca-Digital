@@ -1,0 +1,25 @@
+body {
+  background-color: #F5F0E6;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  background-color: #4A2C2A !important;
+}
+
+.hero {
+  background-color: #2F5D50;
+  color: white;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.footer {
+  background: #4A2C2A;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
